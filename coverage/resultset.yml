@@ -1,0 +1,98 @@
+---
+RSpec:
+  :original_result:
+    /Users/manish/Desktop/SaaS/HW4/hw4_rottenpotatoes/app/controllers/application_controller.rb:
+    - 1
+    - 1
+    - 
+    /Users/manish/Desktop/SaaS/HW4/hw4_rottenpotatoes/app/helpers/application_helper.rb:
+    - 1
+    - 
+    /Users/manish/Desktop/SaaS/HW4/hw4_rottenpotatoes/app/helpers/movies_helper.rb:
+    - 1
+    - 
+    - 
+    - 
+    - 
+    - 
+    /Users/manish/Desktop/SaaS/HW4/hw4_rottenpotatoes/app/controllers/movies_controller.rb:
+    - 1
+    - 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 3
+    - 3
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 3
+    - 3
+    - 
+    - 3
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 2
+    - 2
+    - 2
+    - 2
+    - 2
+    - 
+    - 0
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 
+    /Users/manish/Desktop/SaaS/HW4/hw4_rottenpotatoes/app/models/movie.rb:
+    - 1
+    - 1
+    - 3
+    - 
+    - 
+  :created_at: 2013-02-06 15:40:26.955492000 -08:00

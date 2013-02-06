@@ -1,0 +1,34 @@
+defaults: &DEFAULTS 
+  created_at: 1.month.ago
+  updated_at: 1.month.ago
+  
+one:
+  id: 1
+  title: Star Wars
+  rating: PG
+  release_date: 10.years.ago
+  director: George Lucas
+  <<: *DEFAULTS
+  
+two:
+  id: 2
+  title: Blade Runner
+  rating: PG
+  release_date: 10.years.ago
+  director: Ridley Scott
+  <<: *DEFAULTS
+
+three:
+  id: 3
+  title: Alien
+  rating: R
+  release_date: 10.years.ago
+  <<: *DEFAULTS
+
+four:
+  id: 4
+  title: THX-1138
+  rating: PG
+  release_date: 10.years.ago
+  director: George Lucas
+  <<: *DEFAULTS
